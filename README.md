@@ -1,4 +1,4 @@
-# NETFLIX-CLONE1
+# NETFLIX-CLONE
 Created with CodeSandbox
 This is a responsive Netflix-inspired website featuring a sleek UI with movie and anime posters. It showcases modern HTML and CSS design elements, mimicking the layout and feel of the popular streaming platform.
 
